@@ -14,6 +14,7 @@
 		FD62ACBB2642DFC2009ED9A0 /* ArtbookApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FD62ACB92642DFC2009ED9A0 /* ArtbookApp.xcdatamodeld */; };
 		FD62ACBD2642DFC3009ED9A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD62ACBC2642DFC3009ED9A0 /* Assets.xcassets */; };
 		FD62ACC02642DFC3009ED9A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD62ACBE2642DFC3009ED9A0 /* LaunchScreen.storyboard */; };
+		FD62ACC92642E293009ED9A0 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD62ACC82642E293009ED9A0 /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		FD62ACBC2642DFC3009ED9A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD62ACBF2642DFC3009ED9A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD62ACC12642DFC3009ED9A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD62ACC82642E293009ED9A0 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				FD62ACBE2642DFC3009ED9A0 /* LaunchScreen.storyboard */,
 				FD62ACC12642DFC3009ED9A0 /* Info.plist */,
 				FD62ACB92642DFC2009ED9A0 /* ArtbookApp.xcdatamodeld */,
+				FD62ACC82642E293009ED9A0 /* DetailsVC.swift */,
 			);
 			path = ArtbookApp;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				FD62ACB12642DFC2009ED9A0 /* AppDelegate.swift in Sources */,
 				FD62ACBB2642DFC2009ED9A0 /* ArtbookApp.xcdatamodeld in Sources */,
 				FD62ACB32642DFC2009ED9A0 /* SceneDelegate.swift in Sources */,
+				FD62ACC92642E293009ED9A0 /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
